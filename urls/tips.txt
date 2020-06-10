@@ -1,0 +1,5 @@
+https://www.brentozar.com/archive/2016/02/when-shrinking-tempdb-just-wont-shrink/
+https://sqlsunday.com/2013/08/11/shrinking-tempdb-without-restarting-sql-server/
+https://stackoverflow.com/questions/754527/best-way-to-test-sql-queries
+https://jspanos.com/2020/001-unpivot-using-json/
+https://www.sqlservercentral.com/articles/calculating-duration-using-datetime-start-and-end-dates-sql-spackle-2

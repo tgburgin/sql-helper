@@ -1,0 +1,14 @@
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+https://en.m.wikipedia.org/wiki/M-ary_tree
+https://shachaf.net/w/b-trees
+https://www.sqlskills.com/help/waits/
+https://glennsqlperformance.com/resources/
+https://www.red-gate.com/hub/university/
+https://stuart-moore.com/31-days-of-backup-and-restore-with-dbatools/
+https://docs.microsoft.com/en-gb/sql/relational-databases/sql-server-index-design-guide?view=sql-server-ver15
+https://en.m.wikipedia.org/wiki/Tree_traversal
+https://docs.microsoft.com/en-us/sql/relational-databases/query-processing-architecture-guide?view=sql-server-ver15#parallel-query-processing
+https://bornsql.ca/blog/how-sql-server-stores-data-types-datetime-date-time-and-datetime2/
+https://www.sql.kiwi/2011/06/undocumented-query-plans-equality-comparisons.html?m=1
+https://sqlperformance.com/2019/12/t-sql-queries/null-complexities-part-1
+https://stackoverflow.com/questions/439056/is-a-view-faster-than-a-simple-query
