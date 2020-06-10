@@ -18,4 +18,4 @@ WITH
     )
 SELECT ones.n + 10*tens.n + 100*hundreds.n + 1000*thousands.n
 FROM x ones, x tens, x hundreds, x thousands
-ORDER BY 1
+ORDER BY 1;

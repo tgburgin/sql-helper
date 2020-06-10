@@ -9,4 +9,4 @@ AS
 )
 -- references expression name
 SELECT *
-FROM   expression_name
+FROM expression_name;
